@@ -18,3 +18,6 @@ La ejecucion del metodo define el orden y como se utilizaran las clases, cada cl
 metodos especificos y necesarios para ejecutar la tarea, por ejemplo una clase Albañil que extienda de esta clase 
 implementara diferente el metodo trabajar, pero los otros metodos los implementara de la misma manera
 
+
+https://dzone.com/articles/3-best-practices-java-programmers-can-learn-from-s?edition=383226&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-06-19
+
